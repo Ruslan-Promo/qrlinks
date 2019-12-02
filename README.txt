@@ -9,11 +9,11 @@ Stable tag: 3.05
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-QR code generator and redirection of mobile devices to their own application sites.
+QR code generator and redirection of mobile devices to their own application sites (Libraries used: <a href="http://phpqrcode.sourceforge.net/index.php" target="_blank">PHP QR Code</a>, <a href="http://mobiledetect.net" target="_blank">Mobile Detect</a>).
 
 == Description ==
 
-QR code generator and redirection of mobile devices to their own application sites.
+QR code generator and redirection of mobile devices to their own application sites (Libraries used: <a href="http://phpqrcode.sourceforge.net/index.php" target="_blank">PHP QR Code</a>, <a href="http://mobiledetect.net" target="_blank">Mobile Detect</a>).
 
 == Installation ==
 

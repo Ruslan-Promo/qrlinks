@@ -1,4 +1,5 @@
 === QR Links ===
+
 Contributors: PROMO
 Tags: qr, links, android, ios
 Requires at least: 4.9

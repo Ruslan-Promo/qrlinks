@@ -1,20 +1,19 @@
 === QR Links ===
 
-Contributors: PROMO
+Contributors: promoz73
 Tags: qr, links, android, ios
-Requires at least: 4.9
-Tested up to: 5.2
-Stable tag: 5.1.4
+Requires at least: 4.5
+Tested up to: 5.0
+Requires PHP: 5.4
+Stable tag: 3.05
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+QR code generator and redirection of mobile devices to their own application sites.
 
 == Description ==
 
 QR code generator and redirection of mobile devices to their own application sites.
-
-= Docs & Support =
-
-For support, you can contact wp@promo-z.ru
 
 == Installation ==
 
@@ -29,5 +28,4 @@ For support, you can contact wp@promo-z.ru
 == Changelog ==
 
 = 1.0 =
-
-* Stabile version.
+Initial release.
